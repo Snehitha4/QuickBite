@@ -1,6 +1,6 @@
 # ⚡ QuickBite
 
-QuickBite is a food ordering platform built using Spring Boot for the backend, MySQL as the database, and **HTML/CSS/JavaScript (Thymeleaf) for the frontend.   
+QuickBite is a food ordering platform built using Spring Boot for the backend, MySQL as the database, and HTML/CSS/JavaScript (Thymeleaf) for the frontend.   
 The system supports two main roles: Users and Admins.
 
 ---
